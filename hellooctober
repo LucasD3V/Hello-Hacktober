@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var myMessage = new List<string>()
+            {
+                "Hello World !",
+               
+            };
+            myMessage.ForEach(m => Console.WriteLine(m));
+        }
+    }
+}
