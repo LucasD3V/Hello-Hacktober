@@ -1,0 +1,1 @@
+print("Hello World, I am Abhishek2019\nThis is python3.6.2 and I love it\nThis language is worth learning , it will never let you down except in competative programming cause it is  slow with respect to c,c++ and java")
