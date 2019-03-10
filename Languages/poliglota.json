@@ -1,0 +1,9 @@
+{
+    "languages":[
+        {"pt-br":"Olá, mundo!"},
+        {"en":"Hello World"},
+        {"es":"¡Hola, Mundo!"},
+        {"it":"Ciao, Mondo!"},
+        {"ru":"Привет, мир!"}
+    ]        
+}
