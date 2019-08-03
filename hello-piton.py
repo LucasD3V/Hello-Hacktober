@@ -1,0 +1,3 @@
+print("Hello - wait for it...")
+print("TUDO NESSA VIDA DEPENDE DO QUANTO VC QUER UMA CAMISA DO HACKTOBERFEST")
+print("...WOOOORLD")
